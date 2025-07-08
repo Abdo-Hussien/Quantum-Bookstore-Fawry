@@ -1,6 +1,10 @@
 import books.*;
 import inventory.BookInventory;
 
+// You can easily add a new book type for example, AudioBook by:
+
+// Creating a class AudioBook that extends Book
+// Implementing isAvailable() and buy() logic
 public class QuantumBookstore {
     public static void main(String[] args) {
         BookInventory inventory = new BookInventory();
