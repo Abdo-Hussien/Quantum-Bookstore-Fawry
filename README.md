@@ -1,8 +1,22 @@
 # 📚 Quantum Bookstore
 
-Quantum Bookstore is a modular Java application that simulates an extensible, full-featured online bookstore system. It supports different types of books, purchase mechanisms, and inventory management — all designed with object-oriented principles in mind.
+Quantum Bookstore is a Java application that simulates an online bookstore system service. It supports different types of books and inventory management.
 
----
+------
+
+## 📦 Technologies Used
+
+- java 17.0.12 2024-07-16 LTS
+- Object-Oriented Programming (OOP)
+- Data Structures like Maps & lists
+
+## 🧪 Test Scenarios Covered
+
+- Normal purchase flow for PaperBook and EBook
+- Handling invalid purchase (e.g., showcase book)
+- Automatic removal of outdated books
+
+------
 
 ## 🚀 Features
 
@@ -18,4 +32,30 @@ Quantum Bookstore is a modular Java application that simulates an extensible, fu
 ---
 
 ## 🏗️ Project Structure
+![alt text](./lib/project-structure.png)
+
+###
+![alt text](./lib/output-test.png)
+
+
+
+---
+
+## 📷 Screenshots
+
+### ▶️ Add & List Books
+
+![Add Books Screenshot](./lib/add-books.png)
+
+---
+
+### 💰 Buying a Book
+
+<!-- Add screenshot here -->
+![Buy Book Screenshot](./lib/buy-book.png)
+
+---
+
+
+
 
